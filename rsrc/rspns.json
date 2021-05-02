@@ -1,0 +1,34 @@
+[
+  {
+     "wordName":"guzzle",
+     "definition":"eat or drink (something) greedily",
+     "partOfSpeech":1,
+     "domains":null,
+     "domainsSerialized":"[]",
+     "registers":null,
+     "registersSerialized":"[]",
+     "semanticClasses":null,
+     "semanticClassesSerialized":"[]"
+  }
+]
+
+
+[
+  {
+     "wordName":"insurrection",
+     "definition":"a violent uprising against an authority or government",
+     "partOfSpeech":0,
+     "domains":[
+        "politics"
+     ],
+     "domainsSerialized":null,
+     "registers":[
+        
+     ],
+     "registersSerialized":null,
+     "semanticClasses":[
+        "uprising"
+     ],
+     "semanticClassesSerialized":null
+  }
+]
